@@ -21,4 +21,4 @@ Final_dataset.xlsx set is my final and cleaned data for use.
 
 Project 1.ipynb is my notebook in which i performed all the programming.
 
-A PPT is also attached showing the details related to the project.
+A PPT(Data Wrangling and manipulation on data of Project1) is also attached showing the details related to the project.
