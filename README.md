@@ -1,5 +1,13 @@
 # Nexthikes-Project-1
+Prerequisites
+
+Used Pandas, Numpy, Matplotlib and Seaborn libraries to work on project
+
+Project detail:
+
 This project is for travel details of employee.
+
+Worked on Project:
 
 First I acquire the data received from team which was not cleaned.
 
